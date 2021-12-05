@@ -224,7 +224,7 @@ class Game extends React.Component {
     return (
       <div className="justify-between p-8">
         <div className="text-4xl py-2">Where's my Robot?</div>
-        <a className="hover:underline text-blue-700" href="www.google.com">
+        <a className="hover:underline text-blue-700" href="https://github.com/crsren/bl-grad-tech-interview">
           Github Repository
         </a>
         <div className="place-self-center">
